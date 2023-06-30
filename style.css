@@ -121,3 +121,11 @@ ul{
     border-style: solid;
     padding:8px 28px;
 }
+.footer{
+    background-color: lightgrey;
+    text-align: center;
+    padding:12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
